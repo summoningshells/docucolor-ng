@@ -10,8 +10,8 @@ Preview
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/docucolor-tracking-dot-decoder.git
-   cd docucolor-tracking-dot-decoder
+   git clone https://github.com/summoningshells/docucolor-ng.git
+   cd docucolor-ng
    ```
 
 2. **Install Dependencies**:
